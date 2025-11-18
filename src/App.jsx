@@ -184,7 +184,7 @@ export default function Portfolio() {
                    className="px-6 sm:px-8 py-3 border-2 border-gray-600 rounded-lg font-semibold hover:border-cyan-400 hover:text-cyan-400 transition-all cursor-pointer text-center">
                   Get in Touch
                 </a>
-                <a href="public/resume.pdf"
+                <a href="/resume.pdf"
                    target="_blank"
                    rel="noopener noreferrer"
                    className="px-6 sm:px-8 py-3 bg-linear-to-r from-purple-200 to-purple-800 rounded-lg font-bold hover:shadow-lg hover:shadow-purple-500/50 transition-all cursor-pointer text-center">
