@@ -10,7 +10,7 @@ export default function Portfolio() {
     name: "Deepa Maria",
     title: "Full Stack Developer",
     bio: "I build elegant solutions to complex problems and love transforming ideas into interactive digital experiences using modern technologies. I specialize in crafting modern web interfaces with engaging micro-interactions, focusing on clean code, intuitive user experiences, and continuous learning. Currently based in Munich, I am passionate about creating products that delight users and make a real impact.",
-    github: "https://github.com/username",
+    github: "https://github.com/deepamaria",
     linkedin: "https://linkedin.com/in/deepa-maria/",
     email: "deepamaria89@gmail.com",
     profileImage: profileImg
